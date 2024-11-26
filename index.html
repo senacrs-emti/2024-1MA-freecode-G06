@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <link rel="stylesheet" href="style.css">
+    <script src="./perguntas.js"></script>
+    <script src="./index.js" async></script>
+
+    <title>Super Quiz</title>
+</head>
+<body>
+    <div class="container">
+        <div class="questions-container hide">
+            <input type="hidden" id="posPergunta" value="0">
+            <span class="question" id="question">qual o nome do meteoro que matou os dinossauros?</span>
+            <div class="answers-container">
+            <button class="answer button" id="respA">Chicxulub</button>
+            <button class="answer button" id="respB">Macau</button>
+            <button class="answer button" id="respC">Willamette</button>
+            <button class="answer button" id="respD">hoba</button>
+            </div>
+        </div>
+        <div class="controls-container">
+            <button class="start-quiz button">Começar quiz!</button>
+            <button class="next-question button hide">proxima pergunta</button>
+        </div>
+    </div>
+</body>
+</html>
