@@ -1,5 +1,5 @@
 const Quiz = [ 
-  {"question": "qual o nome do meteoro que matou os dinossauros?",
+  {"question": "Qual o nome do meteoro que matou os dinossauros?",
   "A": "Chicxulub",
   "B": "Macau",
   "C": "Willamette",
@@ -7,7 +7,7 @@ const Quiz = [
   "answer": "A"
 }, 
   {
-    "question": "onde caiu o meteoro que matou os dinossauros?",
+    "question": "Onde caiu o meteoro que matou os dinossauros?",
     "A": "espanha",
     "B": "india",
     "C": "russia",
@@ -15,7 +15,7 @@ const Quiz = [
     "answer": "D"
   }, 
   {
-    "question": "qual foi o MENOR dinossauro que ja existiu?",
+    "question": "Qual foi o MENOR dinossauro que ja existiu?",
     "A": "Oculudentavis",
     "B": "Epidexipteryx hui",
     "C": "Anchiornis",
@@ -23,7 +23,7 @@ const Quiz = [
     "answer": "A"
   }, 
   {
-    "question": "qual foi o maior dinossauro que existiu?",
+    "question": "Qual foi o maior dinossauro que existiu?",
     "A": "Argentinosaurus huinculensis",
     "B": "Uberabatitan ribeiroi",
     "C": "Patagotitan mayorum",
@@ -31,7 +31,7 @@ const Quiz = [
     "answer": "C"
   }, 
   {
-    "question": "qual foi o maior dinossauro aquático do mundo?",
+    "question": "Qual foi o maior dinossauro aquático do mundo?",
     "A": "Mosassauros",
     "B": "honisaurus",
     "C": "Espinossauro",
@@ -39,7 +39,7 @@ const Quiz = [
     "answer": "B"
   }, 
   {
-    "question": "qual era dos dinossauros que durou mais tempo?",
+    "question": "Qual era dos dinossauros que durou mais tempo?",
     "A": "Cretáceo",
     "B": "Jurássico",
     "C": "Triássico",
@@ -47,7 +47,7 @@ const Quiz = [
     "answer": "A"
   }, 
   {
-    "question": "apos o impacto do meteoro, qual especies ainda se materam vivas?",
+    "question": "Apos o impacto do meteoro, qual especies ainda se materam vivas?",
     "A": "marinhas",
     "B": "herbivoros",
     "C": "carnivoros",
@@ -55,14 +55,14 @@ const Quiz = [
     "answer": "D"
   }, 
   {
-    "question": "qual era o dinossauro mais veloz do mundo?",
+    "question": "Qual era o dinossauro mais veloz do mundo?",
     "A": "velociraptor",
     "B": "Compsognathus",
     "C": "Santanaraptor",
     "D": "Dilofossauro",
     "answer": "B"
   },   {
-    "question": "qual foi o maior PREDADOR do mundo?",
+    "question": "Qual foi o maior PREDADOR do mundo?",
     "A": "Tiranossauro Rex",
     "B": "Mosassauros",
     "C": "Espinossauro",
@@ -70,7 +70,7 @@ const Quiz = [
     "answer": "C"
   }, 
   {
-    "question": "qual ano foi encontrado o primeiro fossil de dinossauro?",
+    "question": "Qual ano foi encontrado o primeiro fossil de dinossauro?",
     "A": "1785",
     "B": "1983",
     "C": "1676",
